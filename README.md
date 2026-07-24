@@ -1,6 +1,6 @@
 Event Registration System
 
-## 🌐 Live Demo
+🌐 Live Demo
 
 🔗 https://swathigoud91.github.io/DevOps/
 
