@@ -1,5 +1,9 @@
 Event Registration System
 
+## 🌐 Live Demo
+
+🔗 https://swathigoud91.github.io/DevOps/
+
 A simple and responsive Event Registration System built using HTML, CSS, and JavaScript. This project allows users to register for an event by entering their details through a user-friendly form. JavaScript is used for client-side validation to ensure valid user input before submission.
 
 🚀 Features
